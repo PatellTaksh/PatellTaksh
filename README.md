@@ -13,16 +13,16 @@ Aspiring **Data Analyst** passionate about turning raw data into meaningful insi
 
 ## 📊 Featured Projects
 
-### ZePP – Taxi Fare Dashboard
+### 1. ZePP – Taxi Fare Dashboard
 Taxi ride analysis on **15,000+ records** to identify fare trends and trip patterns using Power BI.
 
-### Customer Shopping Behavior Dashboard
+### 2. Customer Shopping Behavior Dashboard
 Analyzed customer purchase data using **SQL, Python, and Power BI** to identify shopping patterns.
 
-### Blinkit Sales Analysis
+### 3. Blinkit Sales Analysis
 Retail sales analysis on **8,500+ records** with an interactive Excel dashboard.
 
-### Ferns and Petals Sales Analysis
+### 4. Ferns and Petals Sales Analysis
 Sales trend and product performance analysis using Excel dashboards.
 
 ## 📫 Connect with Me
