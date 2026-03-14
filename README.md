@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Taksh Patel 👋
 
-<!--
-**PatellTaksh/PatellTaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas & NumPy
+- Data Visualization
+- Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### ZePP – Taxi Fare Dashboard
+Taxi ride analysis on **15,000+ records** to identify fare trends and trip patterns using Power BI.
+
+### Customer Shopping Behavior Dashboard
+Analyzed customer purchase data using **SQL, Python, and Power BI** to identify shopping patterns.
+
+### Blinkit Sales Analysis
+Retail sales analysis on **8,500+ records** with an interactive Excel dashboard.
+
+### Ferns and Petals Sales Analysis
+Sales trend and product performance analysis using Excel dashboards.
+
+## 📫 Connect with Me
+LinkedIn: https://linkedin.com/in/pateltaksh  
+Email: patelltaksh@gmail.com
