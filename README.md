@@ -23,5 +23,5 @@ Explored sales data to identify **top products, seasonal demand patterns, and re
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/pateltaksh) |
-[GitHub](https://github.com/PatellTaksh) |
+[GitHub](https://discord.com/channels/@patell_taksh) |
 [Email](mailto:patelltaksh@gmail.com)
