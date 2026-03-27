@@ -1,23 +1,25 @@
 # Hi, I'm Taksh Patel 👋
 
-Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building interactive dashboards.
+Aspiring **Data Analyst** focused on turning data into meaningful insights and building interactive dashboards for better decision making.
 
 ## Skills
-Python | SQL | Excel | Power BI | Pandas | NumPy | Data Visualization | EDA
+Tools: Python | SQL | Excel | Power BI  
+Libraries: Pandas | NumPy  
+Core Skills: Data Analysis | Data Visualization | EDA | Data Cleaning | Data Modeling
 
 ## Featured Projects
 
-**1. [ZePP – Taxi Fare Dashboard](https://github.com/PatellTaksh/ZePP-Taxi-Fare-Dashboard)**  
-Analyzed **15,000+ taxi ride records** to identify fare trends, trip patterns, and peak travel times using Power BI.
+**1. [Restaurant Analytics Dashboard](https://github.com/PatellTaksh/Restaurant-Analysis-Dashboard)**  
+Built an interactive dashboard to analyze **56,000+ restaurant records** and track sales performance, customer trends, and key business insights.
 
-**2. [Customer Shopping Behavior Dashboard](https://github.com/PatellTaksh/Customer-Shopping-Behavior-Dashboard)**  
-Performed data cleaning and analysis using **SQL, Python, and Power BI** to understand customer purchasing patterns.
+**2. [Olist E-commerce Sales Analysis](https://github.com/PatellTaksh/Olist-Ecommerce-Sales-Analysis)**  
+Analyzed e-commerce data using **SQL** and **Power BI** to identify sales trends, customer behavior, and product performance.
 
-**3. [Blinkit Sales Analysis](https://github.com/PatellTaksh/Blinkit-Analysis)**  
-Analyzed **8,500+ sales records** and built an Excel dashboard to evaluate product demand and outlet performance.
+**3. [Customer Shopping Behavior Dashboard](https://github.com/PatellTaksh/Customer-Shopping-Behavior-Dashboard)**  
+Used **Python**, **SQL**, and **Power BI** to analyze customer purchasing patterns and segmentation for better business insights.
 
-**4. [Ferns and Petals Sales Analysis](https://github.com/PatellTaksh/Ferns-and-Petals-Sales-Analysis)**  
-Explored sales data to identify **top products, seasonal demand patterns, and revenue trends** using Excel dashboards.
+**4. [Online Bookstore Database System](https://github.com/PatellTaksh/Online-Book-Store)**  
+Designed a relational database to manage books, customers, and orders with efficient data retrieval and reporting.
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/pateltaksh)  |  [Email](mailto:patelltaksh@gmail.com)
