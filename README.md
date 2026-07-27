@@ -14,13 +14,16 @@ Core Skills: Data Analysis | Data Cleaning | Exploratory Data Analysis (EDA) | D
 **1. [Indian Cricket Analytics Dashboard](https://github.com/PatellTaksh/Indian-Cricket-Analytics-Dashboard)**  
 An end-to-end **ETL** and Data Analytics project that extracts Indian cricket batting statistics from the BCCI website, transforms the data using **Python**, loads it into **PostgreSQL**, and visualizes insights through an interactive **Power BI** dashboard.
 
-**2. [Restaurant Analytics Dashboard](https://github.com/PatellTaksh/Restaurant-Analysis-Dashboard)**  
+**2. [HR Attrition Analytics](https://github.com/PatellTaksh/HR-Attrition-Analytics)**  
+An end-to-end Data Analytics project that analyzes employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset, transforms and analyzes the data using **Python** and **SQL**, loads the cleaned data into **PostgreSQL**, and visualizes workforce insights through an interactive **Power BI** dashboard.
+
+**3. [Restaurant Analytics Dashboard](https://github.com/PatellTaksh/Restaurant-Analysis-Dashboard)**  
 Built an interactive dashboard to analyze **56,000+ restaurant records** and track sales performance, customer trends, and key business insights.
 
-**3. [Olist E-commerce Sales Analysis](https://github.com/PatellTaksh/Olist-Ecommerce-Sales-Analysis)**  
+**4. [Olist E-commerce Sales Analysis](https://github.com/PatellTaksh/Olist-Ecommerce-Sales-Analysis)**  
 Analyzed e-commerce data using **SQL** and **Power BI** to identify sales trends, customer behavior, and product performance.
 
-**4. [Customer Shopping Behavior Dashboard](https://github.com/PatellTaksh/Customer-Shopping-Behavior-Dashboard)**  
+**5. [Customer Shopping Behavior Dashboard](https://github.com/PatellTaksh/Customer-Shopping-Behavior-Dashboard)**  
 Used **Python**, **SQL**, and **Power BI** to analyze customer purchasing patterns and segmentation for better business insights.
 
 ## Connect
